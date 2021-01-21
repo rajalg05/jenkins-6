@@ -10,6 +10,6 @@ public class TrimsController {
 
 	@GetMapping("/api")
 	public String trimsApi() {
-		return "1 - Test successfull!!";
+		return "2 - Test successfull!!";
 	}
 }
